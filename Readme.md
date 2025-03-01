@@ -4,7 +4,11 @@
 [![PyTorch Version](https://img.shields.io/badge/pytorch-2.0+-blue.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-![](img/binn.svg)Brain-inspired Neural Networks is a **Spiking Neural Network** library based on PyTorch, designed to simulate the working mechanisms of the brain and provide powerful tools for research and development.
+![](img/binn.svg)
+
+
+
+Brain-inspired Neural Networks is a **Spiking Neural Network** library based on PyTorch, designed to simulate the working mechanisms of the brain and provide powerful tools for research and development.
 
 ## 1. Prerequisites
 
